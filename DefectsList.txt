@@ -1,0 +1,20 @@
+function __construct
+Failed: it is possible to create pen with not integer value of ink
+
+function createPenWithSizeLetter
+Failed: it is possible to create pen with not integer value of letter size
+
+function createPenWithSizeLetterAndColor
+Failed: it is possible to create pen with both invalid values
+
+function write
+Failed: Ink is spended for empty spaces
+
+function getColor
+Failed: function is not returning actual color of pen
+
+function isWork
+Failed: it is possible to work with invalid ink and letter size value
+
+function doSomethingElse
+Failed: function is not returning actual color of pen
