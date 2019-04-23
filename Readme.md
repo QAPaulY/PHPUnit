@@ -1,5 +1,7 @@
-1) Run commands below to get the project
+1) Run commands below to get the project:
+
 git remote add origin https://github.com/QAPaulY/PHPUnit.git
+
 git pull origin master
 
 
